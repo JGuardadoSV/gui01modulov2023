@@ -16,6 +16,6 @@ export class UsuariosController {
   findAll() {
     return this.usuariosService.findAll();
   }
-
+ 
   
 }
